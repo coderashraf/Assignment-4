@@ -1,0 +1,48 @@
+h1 {
+  /* color: rgb(227, 55, 55); */
+  color: red;
+}
+h2 {
+  color: chocolate;
+  font-style: italic;
+}
+li {
+  color: brown;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+ol {
+  line-height: 3;
+}
+.striked-text {
+  text-decoration: line-through;
+}
+.ol-bg {
+  background-color: yellow;
+}
+.li-italic {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+ul li {
+  letter-spacing: 5px;
+}
+
+p {
+  color: #a86e4b;
+  font-weight: bold;
+}
+.prepbyte-link {
+  text-decoration: none;
+  font-style: italic;
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+}
+
+.ul-bg {
+  background-color: yellow;
+  font-weight: 900;
+}
