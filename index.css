@@ -40,9 +40,24 @@ p {
   background-color: yellow;
   color: red;
   font-weight: bold;
+  font-size: 25px;
 }
 
 .ul-bg {
   background-color: yellow;
   font-weight: 900;
+}
+
+.font {
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+.dashed {
+  border: 5px dashed red;
+  margin: 0;
+}
+
+button {
+  margin-left: 10px;
 }
